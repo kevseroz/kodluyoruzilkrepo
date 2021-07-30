@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Proje Resmi](./image/screenshot.png)
+![Proje Resmi](/image/screenshot.png)
